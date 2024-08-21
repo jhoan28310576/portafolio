@@ -762,6 +762,13 @@ a h6:hover {
 	transition: height 200ms ease;
 	transition-delay: 200ms;
 }
+
+.header-menu ul li a:hover {
+	color: purple;
+}
+.header-menu  a:hover {
+	color: purple;
+}
 /* END: Headers */
 
 /*
